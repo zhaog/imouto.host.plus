@@ -11,7 +11,7 @@ imouto.host官方站点：[G+主页](https://plus.google.com/1004841311929509359
 致谢
 ===========
 
-感谢原作者(https://plus.google.com/100484131192950935968/about)
+感谢原作者[imouto.host](https://plus.google.com/100484131192950935968/about)
 
 感谢[凤凰君](https://github.com/phoenixlzx)的一路支持。
 
