@@ -1,5 +1,5 @@
 #+BEGIN
-#+UPDATE_TIME 2014-10-22 11:30:00
+#+UPDATE_TIME 2014-10-22 15:32:00
 
 #localhost START
 127.0.0.1	localhost
@@ -1029,7 +1029,7 @@
 64.233.166.84	accounts.l.google.com
 #GoogleAccounts↑
 #www.google.com↓
-208.117.233.53	www.google.com
+210.242.125.114	www.google.com
 #www.google.com↑
 #Googleapis↓
 210.242.125.114	mt0.googleapis.com
@@ -2771,8 +2771,8 @@
 210.242.125.114	t7.gstatic.com
 #Gstatic↑
 #Google other↓
-64.233.166.189	mail.google.com
-64.233.166.189	isolated.mail.google.com
+210.242.125.114	mail.google.com
+210.242.125.114	isolated.mail.google.com
 64.233.166.101	history.google.com
 64.233.166.112	adwords.google.com
 64.233.166.100	apis.google.com
