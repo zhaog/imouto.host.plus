@@ -1,5 +1,5 @@
 #+BEGIN
-#+UPDATE_TIME 2014-10-23 18:25:00
+#+UPDATE_TIME 2014-10-23 19:52:00
 
 #localhost START
 127.0.0.1	localhost
@@ -4835,15 +4835,37 @@
 #Dropbox END
 
 #Steam START
-173.223.227.11	store.akamai.steamstatic.com
-184.85.160.192	store.steampowered.com
-203.69.81.56	cdn.akamai.steamstatic.com
-203.69.81.83	steamcommunity-a.akamaihd.net
-203.69.138.24	cdn.steamcommunity.com
-203.69.138.24	cdn.steampowered.com
-203.69.138.24	cdn.store.steampowered.com
-203.69.138.24	media.steampowered.com
-203.69.138.24	storefront.steampowered.com
+162.242.173.193	cafe.steampowered.com
+173.223.227.11	cdn.akamai.steamstatic.com
+173.223.227.11	cdn.steamcommunity.com
+173.223.227.11	cdn.steampowered.com
+173.223.227.33	cdn.store.steampowered.com
+205.185.216.10	cloud-2.steampowered.com
+173.223.227.18	cloud-3.steampowered.com
+203.77.186.211	cloud-5.steampowered.com
+203.77.186.211	cloud-6.steampowered.com
+203.77.186.211	cloud-7.steampowered.com
+203.77.186.211	cloud-9.steampowered.com
+203.77.186.211	cloud.steampowered.com
+111.221.33.254	content1.steampowered.com
+205.185.216.10	content3.steampowered.com
+117.18.232.131	content4.steampowered.com
+54.230.183.220	content5.steampowered.com
+69.252.117.130	content6.steampowered.com
+173.223.227.56	content7.steampowered.com
+173.223.227.33	content8.steampowered.com
+23.64.67.235	forums.steampowered.com
+173.223.227.18	media.steampowered.com
+205.185.216.42	media2.steampowered.com
+173.223.227.11	media4.steampowered.com
+121.254.188.138	steamcommunity-a.akamaihd.net
+23.58.48.230	steamcommunity.com
+173.223.227.17	store.akamai.steamstatic.com
+184.26.197.235	store.steampowered.com
+173.223.227.33	store.valvesoftware.com
+184.26.197.235	storefront.steampowered.com
+184.26.197.235	support.steampowered.com
+111.221.33.254	valve.vo.llnwd.net
 #Steam END
 
 #Logmein START
