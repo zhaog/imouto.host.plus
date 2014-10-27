@@ -4878,4 +4878,27 @@
 74.125.204.121	www.indiegala.com
 #Indiegala END
 
+#Oracle START
+61.213.171.25	a248.e.akamai.net
+23.42.112.120	cloud.oracle.com
+23.32.241.33	download.oracle.com
+184.26.216.109	java.com
+184.26.216.109	www.java.com
+23.42.118.140	www.oracle.com
+#Oracle END
+
+#Adobe START
+192.150.16.117	adobe.com
+54.249.60.197	accounts.adobe.com
+72.246.188.49	aihdownload.adobe.com
+54.243.142.51	apps.enterprise.adobe.com
+54.64.71.251	creative.adobe.com
+23.2.133.184	download.macromedia.com
+193.104.215.66	get.adobe.com
+72.246.188.59	trials.adobe.com
+23.32.241.42	trials2.adobe.com
+72.246.188.57	trials3.adobe.com
+192.150.16.64	www.adobe.com
+#Adobe END
+
 #+END
